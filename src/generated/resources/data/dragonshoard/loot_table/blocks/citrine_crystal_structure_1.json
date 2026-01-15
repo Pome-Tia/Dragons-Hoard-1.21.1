@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "dragonshoard:citrine_crystal_structure_1"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "dragonshoard:blocks/citrine_crystal_structure_1"
+}

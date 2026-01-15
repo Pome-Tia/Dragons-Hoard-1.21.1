@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+
+    "dragonshoard:blue_gold_block",
+    "dragonshoard:iolite_crystal",
+    "minecraft:emerald_block"
+
+  ]
+}

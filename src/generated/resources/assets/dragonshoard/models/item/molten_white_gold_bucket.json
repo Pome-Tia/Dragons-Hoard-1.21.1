@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "dragonshoard:item/molten_white_gold_bucket"
+  }
+}

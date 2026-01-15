@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:candle",
+    "minecraft:glass",
+    "minecraft:glass_pane",
+    "minecraft:ochre_froglight",
+    "minecraft:verdant_froglight",
+    "minecraft:pearlescent_froglight"
+  ]
+}

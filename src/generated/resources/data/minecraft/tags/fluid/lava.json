@@ -1,0 +1,18 @@
+{
+  "values": [
+    "dragonshoard:source_molten_gold",
+    "dragonshoard:flowing_molten_gold",
+    "dragonshoard:source_molten_silver",
+    "dragonshoard:flowing_molten_silver",
+    "dragonshoard:source_molten_white_gold",
+    "dragonshoard:flowing_molten_white_gold",
+    "dragonshoard:source_molten_blue_gold",
+    "dragonshoard:flowing_molten_blue_gold",
+    "dragonshoard:source_molten_rose_gold",
+    "dragonshoard:flowing_molten_rose_gold",
+    "dragonshoard:source_molten_star_gold",
+    "dragonshoard:flowing_molten_star_gold",
+    "dragonshoard:source_molten_copper",
+    "dragonshoard:flowing_molten_copper"
+  ]
+}

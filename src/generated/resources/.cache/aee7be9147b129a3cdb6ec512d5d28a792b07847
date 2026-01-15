@@ -1,0 +1,3 @@
+// 1.21.1	2026-01-07T22:00:07.384499	Tags for minecraft:block mod id dragonshoard
+9abce2d08c42e000d2e982b586afc758ecb516ca data/minecraft/tags/block/mineable/pickaxe.json
+2fc9681435c5ff9d28b087f23d29768e8eca20d4 data/minecraft/tags/block/needs_iron_tool.json

@@ -1,0 +1,86 @@
+{
+  "replace": false,
+  "values": [
+
+    "minecraft:white_candle",
+    "minecraft:light_blue_candle",
+    "minecraft:cyan_candle",
+    "minecraft:blue_candle",
+
+    "minecraft:white_terracotta",
+    "minecraft:light_blue_terracotta",
+    "minecraft:cyan_terracotta",
+    "minecraft:blue_terracotta",
+
+    "minecraft:white_glazed_terracotta",
+    "minecraft:light_blue_glazed_terracotta",
+    "minecraft:cyan_glazed_terracotta",
+    "minecraft:blue_glazed_terracotta",
+
+    "minecraft:white_concrete",
+    "minecraft:light_blue_concrete",
+    "minecraft:cyan_concrete",
+    "minecraft:blue_concrete",
+
+    "minecraft:white_stained_glass",
+    "minecraft:light_blue_stained_glass",
+    "minecraft:cyan_stained_glass",
+    "minecraft:blue_stained_glass",
+
+    "minecraft:white_stained_glass_pane",
+    "minecraft:light_blue_stained_glass_pane",
+    "minecraft:cyan_stained_glass_pane",
+    "minecraft:blue_stained_glass_pane",
+
+    "minecraft:white_wool",
+    "minecraft:light_blue_wool",
+    "minecraft:cyan_wool",
+    "minecraft:blue_wool",
+
+    "minecraft:white_carpet",
+    "minecraft:light_blue_carpet",
+    "minecraft:cyan_carpet",
+    "minecraft:blue_carpet",
+
+    "minecraft:white_concrete_powder",
+    "minecraft:light_blue_concrete_powder",
+    "minecraft:cyan_concrete_powder",
+    "minecraft:blue_concrete_powder",
+
+
+    "minecraft:snow_block",
+    "minecraft:ice",
+    "minecraft:packed_ice",
+    "minecraft:blue_ice",
+
+    "#dragonshoard:general_favored_blocks_copper",
+
+    "minecraft:copper_bulb",
+    "minecraft:exposed_copper_bulb",
+    "minecraft:weathered_copper_bulb",
+    "minecraft:oxidized_copper_bulb",
+    "minecraft:waxed_copper_bulb",
+    "minecraft:waxed_exposed_copper_bulb",
+    "minecraft:waxed_weathered_copper_bulb",
+    "minecraft:waxed_oxidized_copper_bulb",
+
+    "minecraft:quartz_slab",
+    "minecraft:smooth_quartz",
+    "minecraft:chiseled_quartz_block",
+    "minecraft:quartz_block",
+    "minecraft:quartz_bricks",
+    "minecraft:quartz_pillar",
+    "minecraft:quartz_stairs",
+    "minecraft:smooth_quartz_stairs",
+    "minecraft:smooth_quartz_slab",
+
+    "minecraft:gold_block",
+    "minecraft:iron_block",
+    "minecraft:iron_bars",
+
+    "minecraft:iron_door",
+    "minecraft:iron_trapdoor",
+
+    "minecraft:glowstone"
+  ]
+}

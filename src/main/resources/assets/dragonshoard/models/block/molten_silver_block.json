@@ -1,0 +1,7 @@
+{
+  "parent": "block/liquid",
+  "textures": {
+    "still": "dragonshoard:block/source_molten_silver",
+    "flow": "dragonshoard:block/flowing_molten_silver"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "top": "dragonshoard:block/alexandrite_top",
+    "bottom": "dragonshoard:block/alexandrite_top",
+    "side": "dragonshoard:block/alexandrite_crystal",
+    "front": "dragonshoard:block/alexandrite_crystal"
+  }
+}

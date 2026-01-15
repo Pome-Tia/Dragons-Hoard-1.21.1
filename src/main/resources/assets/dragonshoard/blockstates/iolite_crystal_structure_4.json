@@ -1,0 +1,30 @@
+{
+  "variants": {
+    "facing=down": {
+      "model": "dragonshoard:block/iolite_crystal_structure_4",
+      "x": 180
+    },
+    "facing=east": {
+      "model": "dragonshoard:block/iolite_crystal_structure_4",
+      "x": 90,
+      "y": 90
+    },
+    "facing=north": {
+      "model": "dragonshoard:block/iolite_crystal_structure_4",
+      "x": 90
+    },
+    "facing=south": {
+      "model": "dragonshoard:block/iolite_crystal_structure_4",
+      "x": 90,
+      "y": 180
+    },
+    "facing=up": {
+      "model": "dragonshoard:block/iolite_crystal_structure_4"
+    },
+    "facing=west": {
+      "model": "dragonshoard:block/iolite_crystal_structure_4",
+      "x": 90,
+      "y": 270
+    }
+  }
+}

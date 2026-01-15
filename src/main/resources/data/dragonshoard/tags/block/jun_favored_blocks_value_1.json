@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+
+    "#dragonshoard:general_favored_blocks_wood",
+    "#dragonshoard:general_favored_blocks_stone",
+    "#dragonshoard:general_favored_blocks_other",
+    "#dragonshoard:general_favored_blocks_plants",
+
+    "minecraft:water",
+
+    "minecraft:sea_pickle",
+    "minecraft:kelp_plant",
+    "minecraft:seagrass",
+    "minecraft:tall_seagrass"
+  ]
+}

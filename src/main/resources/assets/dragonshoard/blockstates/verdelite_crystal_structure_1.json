@@ -1,0 +1,30 @@
+{
+  "variants": {
+    "facing=down": {
+      "model": "dragonshoard:block/verdelite_crystal_structure_1",
+      "x": 180
+    },
+    "facing=east": {
+      "model": "dragonshoard:block/verdelite_crystal_structure_1",
+      "x": 90,
+      "y": 90
+    },
+    "facing=north": {
+      "model": "dragonshoard:block/verdelite_crystal_structure_1",
+      "x": 90
+    },
+    "facing=south": {
+      "model": "dragonshoard:block/verdelite_crystal_structure_1",
+      "x": 90,
+      "y": 180
+    },
+    "facing=up": {
+      "model": "dragonshoard:block/verdelite_crystal_structure_1"
+    },
+    "facing=west": {
+      "model": "dragonshoard:block/verdelite_crystal_structure_1",
+      "x": 90,
+      "y": 270
+    }
+  }
+}

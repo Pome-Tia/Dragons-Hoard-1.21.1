@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "dragonshoard:block/star_gilded_opal_block"
+  }
+}
