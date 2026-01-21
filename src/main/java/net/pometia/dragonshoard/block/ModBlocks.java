@@ -3,6 +3,7 @@ package net.pometia.dragonshoard.block;
 import net.minecraft.world.item.BlockItem;
 import net.minecraft.world.item.Item;
 import net.minecraft.world.level.block.Block;
+import net.minecraft.world.level.block.CauldronBlock;
 import net.minecraft.world.level.block.state.BlockBehaviour;
 import net.neoforged.bus.api.IEventBus;
 import net.neoforged.neoforge.registries.DeferredBlock;
@@ -18,6 +19,54 @@ import java.util.function.Supplier;
 public class ModBlocks {
     public static final DeferredRegister.Blocks BLOCKS = DeferredRegister.createBlocks(DragonsHoard.MOD_ID);
 
+    // MOLDS
+
+    public static final DeferredBlock<Block> EMPTY_MOLD = registerBlock("empty_mold", () -> new Block(BlockBehaviour.Properties.of().strength(4f).requiresCorrectToolForDrops()));
+    public static final DeferredBlock<Block> MOLTEN_GOLD_MOLD = registerBlock("molten_gold_mold", () -> new Block(BlockBehaviour.Properties.of().strength(4f).requiresCorrectToolForDrops()));
+    public static final DeferredBlock<Block> MOLTEN_SILVER_MOLD = registerBlock("molten_silver_mold", () -> new Block(BlockBehaviour.Properties.of().strength(4f).requiresCorrectToolForDrops()));
+    public static final DeferredBlock<Block> MOLTEN_COPPER_MOLD = registerBlock("molten_copper_mold", () -> new Block(BlockBehaviour.Properties.of().strength(4f).requiresCorrectToolForDrops()));
+    public static final DeferredBlock<Block> MOLTEN_ROSE_GOLD_MOLD = registerBlock("molten_rose_gold_mold", () -> new Block(BlockBehaviour.Properties.of().strength(4f).requiresCorrectToolForDrops()));
+    public static final DeferredBlock<Block> MOLTEN_WHITE_GOLD_MOLD = registerBlock("molten_white_gold_mold", () -> new Block(BlockBehaviour.Properties.of().strength(4f).requiresCorrectToolForDrops()));
+    public static final DeferredBlock<Block> MOLTEN_BLUE_GOLD_MOLD = registerBlock("molten_blue_gold_mold", () -> new Block(BlockBehaviour.Properties.of().strength(4f).requiresCorrectToolForDrops()));
+    public static final DeferredBlock<Block> MOLTEN_STAR_GOLD_MOLD = registerBlock("molten_star_gold_mold", () -> new Block(BlockBehaviour.Properties.of().strength(4f).requiresCorrectToolForDrops()));
+
+    // BRICKS
+    public static final DeferredBlock<Block> SUN_STELLAR_BRICKS = registerBlock("sun_stellar_bricks",
+            () -> new Block(BlockBehaviour.Properties.of().strength(4f).requiresCorrectToolForDrops()));
+    public static final DeferredBlock<Block> STAR_STELLAR_BRICKS = registerBlock("star_stellar_bricks",
+            () -> new Block(BlockBehaviour.Properties.of().strength(4f).requiresCorrectToolForDrops()));
+    public static final DeferredBlock<Block> MOON_STELLAR_BRICKS = registerBlock("moon_stellar_bricks",
+            () -> new Block(BlockBehaviour.Properties.of().strength(4f).requiresCorrectToolForDrops()));
+    public static final DeferredBlock<Block> SUN_UMBRAL_BRICKS = registerBlock("sun_umbral_bricks",
+            () -> new Block(BlockBehaviour.Properties.of().strength(4f).requiresCorrectToolForDrops()));
+    public static final DeferredBlock<Block> STAR_UMBRAL_BRICKS = registerBlock("star_umbral_bricks",
+            () -> new Block(BlockBehaviour.Properties.of().strength(4f).requiresCorrectToolForDrops()));
+    public static final DeferredBlock<Block> MOON_UMBRAL_BRICKS = registerBlock("moon_umbral_bricks",
+            () -> new Block(BlockBehaviour.Properties.of().strength(4f).requiresCorrectToolForDrops()));
+
+    // FORGES
+    //public static final DeferredBlock<Block> STELLAR_FORGE = registerBlock("sun_stellar_forge",
+            //() -> new Block(BlockBehaviour.Properties.of().strength(4f).requiresCorrectToolForDrops()));
+    public static final DeferredBlock<Block> SUN_STELLAR_FORGE = registerBlock("sun_stellar_forge",
+            () -> new Block(BlockBehaviour.Properties.of().strength(4f).requiresCorrectToolForDrops()));
+    public static final DeferredBlock<Block> STAR_STELLAR_FORGE = registerBlock("star_stellar_forge",
+            () -> new Block(BlockBehaviour.Properties.of().strength(4f).requiresCorrectToolForDrops()));
+    public static final DeferredBlock<Block> MOON_STELLAR_FORGE = registerBlock("moon_stellar_forge",
+            () -> new Block(BlockBehaviour.Properties.of().strength(4f).requiresCorrectToolForDrops()));
+    public static final DeferredBlock<Block> SUN_UMBRAL_FORGE = registerBlock("sun_umbral_forge",
+            () -> new Block(BlockBehaviour.Properties.of().strength(4f).requiresCorrectToolForDrops()));
+    public static final DeferredBlock<Block> STAR_UMBRAL_FORGE = registerBlock("star_umbral_forge",
+            () -> new Block(BlockBehaviour.Properties.of().strength(4f).requiresCorrectToolForDrops()));
+    public static final DeferredBlock<Block> MOON_UMBRAL_FORGE = registerBlock("moon_umbral_forge",
+            () -> new Block(BlockBehaviour.Properties.of().strength(4f).requiresCorrectToolForDrops()));
+
+    // CORES
+    public static final DeferredBlock<Block> SUN_CORE = registerBlock("sun_core",
+            () -> new Block(BlockBehaviour.Properties.of().strength(4f).requiresCorrectToolForDrops()));
+    public static final DeferredBlock<Block> STAR_CORE = registerBlock("star_core",
+            () -> new Block(BlockBehaviour.Properties.of().strength(4f).requiresCorrectToolForDrops()));
+    public static final DeferredBlock<Block> MOON_CORE = registerBlock("moon_core",
+            () -> new Block(BlockBehaviour.Properties.of().strength(4f).requiresCorrectToolForDrops()));
 
     // GEMS
     public static final DeferredBlock<Block> MOONSTONE_CRYSTAL = registerBlock("moonstone_crystal",
